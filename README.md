@@ -5,7 +5,9 @@ This is a simple BMI Calculator that was created with Flutter and Dart for Angel
 
 ## Images
 ### Input Page
-![alt text](https://i.imgur.com/qYBUDsN.jpg "Input page")
+<img src="https://i.imgur.com/qYBUDsN.jpg" width="400" />
 
 ### Results Page
-![alt text](https://i.imgur.com/3OBUFIZ.jpg)
+<img src="https://i.imgur.com/3OBUFIZ.jpg" width="400" />
+
+
